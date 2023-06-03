@@ -1,2 +1,1 @@
-# SweetSense
-## A Diabetes Prediction Webapp 
+##  Diabetes Data Analysis and visualization 
