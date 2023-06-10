@@ -1,1 +1,2 @@
-##  Gluco-Predict -> Diabetes prediction Webapp
+## Gluco-Predict 
+### A diabetes prediction web application
