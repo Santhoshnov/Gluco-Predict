@@ -1,6 +1,6 @@
 # Gluco-Predict
 
-Gluco-Predict is a web application that predicts whether a person is diabetic or not based on various health parameters. It is built using a machine learning model and a React frontend.
+Gluco-Predict is a full stack web application that predicts whether a person is diabetic or not based on various health parameters. It is built using a machine learning model and a React frontend.
 
 - [Features](#features)
 - [Installation](#installation)
