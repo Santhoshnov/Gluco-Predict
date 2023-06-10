@@ -41,3 +41,12 @@ To install and run this project locally, follow these steps:
 
 ## Demo
 
+![d-0](https://github.com/Santhoshnov/Gluco-Predict/assets/108118100/21b9455f-9b50-495f-a864-fd04d817eab8)
+
+![d-1](https://github.com/Santhoshnov/Gluco-Predict/assets/108118100/140ad657-2c9b-411f-a1cc-29ad2306c76b)
+
+
+
+
+
+
