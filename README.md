@@ -1,1 +1,1 @@
-##  Diabetes Prediction using Logistic Regression
+##  Gluco-Predict -> Diabetes prediction Webapp
